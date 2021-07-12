@@ -1,0 +1,9 @@
+C:\Users\zdrav\source\repos\Arduino Assignment 3\Arduino Assignment 3\bin\Debug\Arduino Assignment 3.exe.config
+C:\Users\zdrav\source\repos\Arduino Assignment 3\Arduino Assignment 3\bin\Debug\Arduino Assignment 3.exe
+C:\Users\zdrav\source\repos\Arduino Assignment 3\Arduino Assignment 3\bin\Debug\Arduino Assignment 3.pdb
+C:\Users\zdrav\source\repos\Arduino Assignment 3\Arduino Assignment 3\obj\Debug\Arduino Assignment 3.csprojAssemblyReference.cache
+C:\Users\zdrav\source\repos\Arduino Assignment 3\Arduino Assignment 3\obj\Debug\Arduino_Assignment_3.Form1.resources
+C:\Users\zdrav\source\repos\Arduino Assignment 3\Arduino Assignment 3\obj\Debug\Arduino_Assignment_3.Properties.Resources.resources
+C:\Users\zdrav\source\repos\Arduino Assignment 3\Arduino Assignment 3\obj\Debug\Arduino Assignment 3.csproj.GenerateResource.cache
+C:\Users\zdrav\source\repos\Arduino Assignment 3\Arduino Assignment 3\obj\Debug\Arduino Assignment 3.exe
+C:\Users\zdrav\source\repos\Arduino Assignment 3\Arduino Assignment 3\obj\Debug\Arduino Assignment 3.pdb

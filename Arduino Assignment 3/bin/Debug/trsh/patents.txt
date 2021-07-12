@@ -1,0 +1,20 @@
+-/////-
+John
+61
+Room 1
+-/////-
+Andrey
+16
+Room 2
+-/////-
+Anakin Skywalker
+30
+Room 3
+-/////-
+-
+-
+-
+-/////-
+Jeremy
+60
+Room 5
